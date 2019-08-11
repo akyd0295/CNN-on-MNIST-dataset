@@ -15,4 +15,12 @@ Run the file using **python 3**(this code won't run in Python 2)
 
 ## Score on Kaggle
 
-i'll udate this section soon
+0.82328
+
+you can check the score here also: https://www.kaggle.com/c/digit-recognizer/submissions
+
+## Conclusion
+
+We didn't achive highest score, but that is obvious because We didn't fine-tune our model enough.
+Also It is to kept in mind the there'll always be trade-off between computing cost and performance.
+If you intend to use this code to achieve higher accuracy you can use Grid Search or Randomized Search as mentioned in jupyter-notebook.
